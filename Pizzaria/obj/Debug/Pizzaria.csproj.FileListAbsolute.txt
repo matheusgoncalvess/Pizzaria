@@ -1,0 +1,10 @@
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Cliente\Documents\ADS - Facul\2 - Semestre\Programação Visual\exercicio_aula\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
